@@ -1,0 +1,24 @@
+{
+  "name": "coffeeshops",
+  "version": "1.0.0",
+  "description": "Coffee Shops API",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianBalcan/coffeeshops.git"
+  },
+  "author": "Adrian Balcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianBalcan/coffeeshops/issues"
+  },
+  "homepage": "https://github.com/AdrianBalcan/coffeeshops#readme",
+  "dependencies": {
+    "morgan": "^1.6.1",
+    "sqlite3": "^3.0.8"
+  }
+}
